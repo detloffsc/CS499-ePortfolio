@@ -1,4 +1,8 @@
 # CS499-ePortfolio
+
+## Professional Self-Assesment
+
+
 ## Snr-Project File
 This is my original project. It was originally a juptyer notebook which I worked on within an online lab environment for one of my classes. In preparing the project for this class I downloaded it from the lab environment to my own machine and made it a normal python file instead of a jupyter notebook. Within these changes I ran into a lot of issues with preparing the dependencies for the code. Specifically I ran into a lot of issues with getting the right version of TensorFlow which was needed for the algorithm to work. After dead-end followed by dead-end I came to the conclusion that I was not going to be able to fix this problem within the timeline I had.
 
